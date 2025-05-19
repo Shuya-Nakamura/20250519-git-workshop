@@ -1,0 +1,44 @@
+commit c5b49e91425cf15b5a49035e736aa34259d2be4b
+Merge: f77aa92 00cce8c
+Author: Shuya Nakamura <184600439+Shuya-Nakamura@users.noreply.github.com>
+Date:   Mon May 19 14:30:15 2025 +0900
+
+    Merge branch 'main' of https://github.com/Shuya-Nakamura/20250519-git-workshop
+
+commit f77aa92a6768649c48ca81acc13494f56baf304e
+Author: Shuya Nakamura <184600439+Shuya-Nakamura@users.noreply.github.com>
+Date:   Mon May 19 14:25:13 2025 +0900
+
+    ピースの色を変更
+    
+    blueをskyblueに
+
+commit 00cce8ca6504c2c050e1f759a0f9cb1b95e119d8
+Author: mj24132 <184600439+Shuya-Nakamura@users.noreply.github.com>
+Date:   Mon May 19 14:18:23 2025 +0900
+
+    ピースの色を変更
+    
+    cyanをskyblueに変項
+
+commit 37408c2d1677c112f90abeb1d0377f5013ed9185
+Author: Shuya Nakamura <184600439+Shuya-Nakamura@users.noreply.github.com>
+Date:   Mon May 19 14:13:05 2025 +0900
+
+    スピード変更
+    
+    400を1000に
+
+commit 42465db564beba581d2f5f8b94d0247380245bfa
+Author: Shuya Nakamura <184600439+Shuya-Nakamura@users.noreply.github.com>
+Date:   Mon May 19 14:06:57 2025 +0900
+
+    ピースの色を変更
+    
+    深い緑を明るい緑へ
+
+commit 402b555491de4cdd2bda4bc8f3a9b1ed76a0f55b
+Author: Shuya Nakamura <184600439+Shuya-Nakamura@users.noreply.github.com>
+Date:   Mon May 19 13:43:23 2025 +0900
+
+    インポート完了
